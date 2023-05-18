@@ -453,10 +453,11 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
+	background: url('../img/cover-pic-isuru.webp') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
-	background: #FBFBFB url('../img/cover-pic-isuru.webp') no-repeat right bottom;
+	background-color: #FBFBFB;
 }
 .hero h1 {
 	font-size: 120px;
